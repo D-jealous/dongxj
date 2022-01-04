@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="exam">
+    <output-path>$PROJECT_DIR$/out/artifacts/exam</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ssm-Online_Examination-master" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ssm-Online_Examination-master/web/Web" />
+    </root>
+  </artifact>
+</component>
